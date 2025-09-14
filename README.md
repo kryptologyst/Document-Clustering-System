@@ -34,4 +34,3 @@ streamlit run app.py
 ```
 
 The application will open in your default web browser.
-# Document-Clustering-System
